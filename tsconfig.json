@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "outDir": "./build/js",
+        "watch": true,
+        "strict": false,
+    },
+    "include": ["./src"],
+    
+}
